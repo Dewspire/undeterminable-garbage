@@ -45,7 +45,7 @@
 	top:0px;
 	bottom:0px;
 	overflow:hidden;
-	width:80%;
+	width:70%;
 	position:absolute;
 }
 #box-res.fullWidth
@@ -70,7 +70,7 @@
 	right:0px;
 	top:0px;
 	bottom:0px;
-	width:20%;
+	width:30%;
 	position:absolute;
 }
 #box-buildings,#box-upgrades
