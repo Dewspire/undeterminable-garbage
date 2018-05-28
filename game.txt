@@ -8,7 +8,7 @@ Settings
     background:https://i.imgur.com/bRBaC9u.png
     building cost increase:110%
     building cost refund:60%
-    stylesheet:https://pastebin.com/WEL9accg
+    stylesheet:https://github.com/Dewspire/undeterminable-garbage/blob/master/folds.txt
  
 Layout
     use default
