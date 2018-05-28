@@ -1,0 +1,29 @@
+Let's make a game!
+    name:Paper Folds
+    by:Dewspire
+    desc:An origami-themed incremental game.
+    created:27/05/2018
+ 
+Settings
+    background:https://i.imgur.com/bRBaC9u.png
+    building cost increase:110%
+    building cost refund:60%
+    stylesheet:https://pastebin.com/WEL9accg
+ 
+Layout
+    use default
+ 
+Buttons
+    *mainPaperButton
+        on click:anim icon wobble
+        on click:yield 1 paper
+        icon:https://i.imgur.com/8XHLfML.png
+        no text
+        class:bigButton hasFlares
+ 
+Resources
+    *paper
+        name:Paper
+        desc:This is all the paper you own. You can fold it, shape it, cut it... and even sell it!
+        class:noBackground
+        show earned
